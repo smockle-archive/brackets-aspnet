@@ -1,0 +1,12 @@
+{
+    "name": "smockle.brackets-aspnet",
+    "title": "Brackets ASP.NET",
+    "description": "Provides syntax highlighting for ASP.NET MVC View Master Pages.",
+    "homepage": "https://github.com/smockle/brackets-aspnet",
+    "version": "0.1.0",
+    "author": "Clay Miller <clay@smockle.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
