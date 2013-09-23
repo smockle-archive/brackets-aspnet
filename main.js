@@ -6,8 +6,8 @@ define(function (require, exports, module) {
 
 	var LanguageManager = brackets.getModule("language/LanguageManager");
 
-	//C# Refine
-	var csharp_language = LanguageManager.getLanguage("csharp");
+	//HTML Refine
+	var html_language = LanguageManager.getLanguage("html");
 	//ASP.NET File Extensions
-	csharp_language.addFileExtension("master");
+	html_language.addFileExtension("master");
 });
