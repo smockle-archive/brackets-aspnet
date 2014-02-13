@@ -9,5 +9,5 @@ define(function (require, exports, module) {
 	//HTML Refine
 	var html_language = LanguageManager.getLanguage("html");
 	//ASP.NET File Extensions
-	html_language.addFileExtension("master");
+	html_language.addFileExtension("ascx");
 });
