@@ -1,6 +1,6 @@
 brackets-aspnet
 ===============
 
-**UPDATE:** This code has been merged into Brackets: https://github.com/adobe/brackets/pull/5320.
+**UPDATE:** The original code (to support ASP.NET MVC View Master Pages) has been merged into Brackets: https://github.com/adobe/brackets/pull/5320.
 
-Brackets ASP.NET provides syntax highlighting for ASP.NET MVC View Master Pages.
+Brackets ASP.NET provides syntax highlighting for ASP.NET User Controls (.ascx).
